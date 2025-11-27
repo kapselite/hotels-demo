@@ -6,6 +6,7 @@ import MouseGlow from './components/MouseGlow';
 import Home from './pages/Home';
 import Details from './pages/Details';
 import Booking from './pages/Booking';
+import ChatAssistant from './components/ChatAssistant';
 import { useEffect } from 'react';
 
 function App() {
@@ -29,6 +30,7 @@ function App() {
         </Routes>
       </AnimatePresence>
 
+      <ChatAssistant />
       <Footer />
     </div>
   );
