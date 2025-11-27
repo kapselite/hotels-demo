@@ -86,7 +86,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-stone-500 text-sm">
-            © 2024 Savanna Lodge. All rights reserved.
+            © 2026 Savanna Lodge. All rights reserved.
           </p>
           <div className="flex items-center gap-2 text-stone-500 text-sm">
             <span>Designed by</span>
