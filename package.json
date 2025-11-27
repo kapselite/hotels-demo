@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/myusername/my-repo",
+  "homepage": "https://kapselite.github.io/hotels-demo/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
